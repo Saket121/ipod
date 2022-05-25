@@ -3,8 +3,7 @@ import Screen from './Screen';
 import ZingTouch from 'zingtouch';
 import sound from './assets/music/onmyway.mp3';
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import { faForwardFast } from '@fortawesome/free-solid-svg-icons';
-import {FaFastForward} from "react-icons/fa"
+
 
 class Ipod extends React.Component {
 
